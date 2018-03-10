@@ -2,7 +2,7 @@
 title: "Abortion Rates 1990-2010 Memo"
 author: "Phoebe Abramowitz"
 date: "3/9/2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
