@@ -1,0 +1,1 @@
+Rates are pregnancy outcomes per 1,000 women in specified group, estimated as of April 1 for 1990, 2000, and 2010, July 1 for all other years]
