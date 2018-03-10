@@ -1,0 +1,8 @@
+"0","preg_2009 <- filter(pregnancies_all,year==""2009"")$total
+abort_2009 <- filter(abortions_all,year==""2009"")$total
+abort_2009/preg_2009
+"
+"1","[1]"
+"1"," 0.1811949"
+"1","
+"
